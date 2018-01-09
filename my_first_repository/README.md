@@ -1,3 +1,1 @@
-bash
-c
-js
+Create and setup your Git and Github account
