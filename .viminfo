@@ -20,22 +20,28 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	
+""-	CHAR	0
+	2
 
 # File marks:
-'0  2  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
-'1  2  0  ~/holbertonschool-zero_day/0x02-vi/5-beginning_line
-'2  2  0  ~/holbertonschool-zero_day/0x02-vi/4-exiting
-'3  2  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
-'4  2  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
-'5  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
-'6  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
-'7  2  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
-'8  1  0  ~/holbertonschool-zero_day/0x01-emacs/hello
-'9  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
+'0  17  33  ~/holberton-system_engineering-devops/0x01-shell_permissions/nuseradd
+'1  1  1  ~/holbertonschool-zero_day/0x02-vi/101-delete_line
+'2  1  2  ~/holbertonschool-zero_day/0x02-vi/100-move_to_line
+'3  2  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
+'4  2  0  ~/holbertonschool-zero_day/0x02-vi/5-beginning_line
+'5  2  0  ~/holbertonschool-zero_day/0x02-vi/4-exiting
+'6  2  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
+'7  2  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
+'8  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
+'9  1  0  ~/holbertonschool-zero_day/0x02-vi/0-inserting
 
 # Jumplist (newest first):
+-'  17  33  ~/holberton-system_engineering-devops/0x01-shell_permissions/nuseradd
+-'  1  0  ~/holberton-system_engineering-devops/0x01-shell_permissions/nuseradd
+-'  1  1  ~/holbertonschool-zero_day/0x02-vi/101-delete_line
+-'  1  2  ~/holbertonschool-zero_day/0x02-vi/100-move_to_line
 -'  2  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/6-end_line
 -'  2  0  ~/holbertonschool-zero_day/0x02-vi/5-beginning_line
@@ -130,13 +136,26 @@
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  0  ~/holbertonschool-zero_day/0x01-emacs/hello
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 
 # History of marks within files (newest to oldest):
+
+> ~/holberton-system_engineering-devops/0x01-shell_permissions/nuseradd
+	"	17	33
+	^	17	34
+	.	17	0
+	+	17	0
+
+> ~/holbertonschool-zero_day/0x02-vi/101-delete_line
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/holbertonschool-zero_day/0x02-vi/100-move_to_line
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/holbertonschool-zero_day/0x02-vi/6-end_line
 	"	2	0
